@@ -1,2 +1,9 @@
-# leetcode-solutions
-My LeetCode solutions in Java. Practicing Data Structures and Algorithms for technical interviews.
+# LeetCode Solutions (Java)
+
+My solutions for LeetCode problems using Java.
+
+| # | Problem | Solution |
+|---|---|---|
+|0|example|[Code](./001-two-sum)|
+
+Total solved: 0
