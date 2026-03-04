@@ -1,0 +1,6 @@
+# Java compiled files
+*.class     # Bytecode được compile từ file .java (javac tạo ra)
+
+# IDE / Editor settings
+.vscode     # Thư mục cấu hình của Visual Studio Code (local machine)
+.idea       # Thư mục cấu hình của IntelliJ IDEA
