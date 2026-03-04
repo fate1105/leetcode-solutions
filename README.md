@@ -7,9 +7,9 @@ My solutions for LeetCode problems using **Java** while practicing **Data Struct
 ## Progress
 
 Total solved: 1
-Easy: 1
-Medium: 0
-Hard: 0
+- Easy: 1
+- Medium: 0
+- Hard: 0
 
 ---
 
